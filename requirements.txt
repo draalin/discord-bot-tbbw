@@ -1,6 +1,6 @@
 praw==6.0.0
 discord.py==0.16.12
-aiohttp==1.0.5
+aiohttp==3.7.4
 requests==2.20.0
 Pillow==6.2.0
 beautifulsoup4==4.6.3
